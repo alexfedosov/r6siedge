@@ -12,6 +12,7 @@ import SnapKit
 let operators = [
   Operator(name: "Caveira"),
   Operator(name: "Tsokotrundel"),
+  Operator(name: "Maverick"),
 ]
 
 class OperatorListViewController: UIViewController {
